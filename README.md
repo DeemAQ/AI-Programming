@@ -1,2 +1,2 @@
 # AI-Programming
-Projects from AI programming with Python Nanodegree
+Projects I did to complete my AI programming with Python Nanodegree provided by Udacity
